@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="pystrings",
-    version="0.0.2",
+    version="0.0.32",
     author="Mahdi Gadget",
     author_email="mahdigadget20@gmail.com",
     description="A package For ease of working with strings",

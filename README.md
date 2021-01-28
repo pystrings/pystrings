@@ -6,7 +6,7 @@ Write it once, then call it
 
 You can use pystrings as below:
 ```
-import pystrings 
+from pystrings import create_strings
 
 #create initialization 
 my_str = pystrings(['hell_world', 'use_it_for_handle_all_strings', 'haha'])
@@ -22,7 +22,7 @@ you can use it in all source code instead strings, like use in instead of ML hyp
 just you must inshialize pystrings with your strings and call it later 
 
 
-We have good news in the next update 
+We have good news in the next updates
 
 to be continued...
 
